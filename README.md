@@ -1,11 +1,10 @@
 # Project3
-## Final Project - Correlation of Autralian Exports on Consumer Confidence Index
+## Final Project - Australian Livestock Export Mortality Rates
 
-## Data
-ABS - Australian Exports csv
-Roy Morgan - Consumer Confidence Index
+## Resources
+ABS - Australian Livestock Exports
+Department of Agriculture, Water and the Environment - Investigations into Mortalities
 
-## Visualizations
-Linear Regression of Consumer Confidence Index & Australian Exports from 2018 -2020
+## Machine Learning Hypothesis
+We are attempting to predict whether livestock mortality rates are improving and if we can observe trends in conditions surrounding these incidences
 
-## Machine Learning
