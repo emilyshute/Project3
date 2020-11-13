@@ -242,6 +242,9 @@ select {
     animation: smaller-title 1.2s forwards linear;
   }
 }
+.form-inline {
+  position: right;
+}
 
 /* keyframe animations which will be used to animate the title */
 @keyframes title {
